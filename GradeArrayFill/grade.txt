@@ -1,0 +1,5 @@
+Meowco HoGrade 1: 60
+Grade 2: 48
+Grade 3: 93
+Grade 4: 31
+Grade 5: 88
